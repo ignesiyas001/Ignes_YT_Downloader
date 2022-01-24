@@ -1,4 +1,4 @@
-# ------------------------------------------------------------------------------------
+# ------------------------------------------------------------
 # Ignes_YT_Downloader
 
 *this is a simple youtube downloader
@@ -15,4 +15,4 @@ step5:  follow further details after running ignes_yt_downloader.py
 
 
 
-# ---------------THANK YOU FOR USING MY PROJECT----------------
+# ----------THANK YOU FOR USING MY PROJECT----------
