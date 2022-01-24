@@ -1,6 +1,7 @@
-------------------------------------------------------------------------------------
+# ------------------------------------------------------------------------------------
 # Ignes_YT_Downloader
-this is a simple youtube downloader
+
+*this is a simple youtube downloader
 
 step1:  locate to the Ignes_YT_Downloader using terminal
 
@@ -14,4 +15,4 @@ step5:  follow further details after running ignes_yt_downloader.py
 
 
 
-----------------------THANK YOU FOR USING MY PROJECT-------------------------------
+# ----------------------THANK YOU FOR USING MY PROJECT-------------------------------
